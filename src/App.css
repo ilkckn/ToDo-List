@@ -1,0 +1,13 @@
+.appBody {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.appBody h1 {
+    font-size: 4rem;
+    letter-spacing: 2px;
+    margin-bottom: 5rem;
+    color: rgb(224, 66, 255);
+}
